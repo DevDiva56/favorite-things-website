@@ -75,6 +75,5 @@ This project is a storytelling-style personal website built using HTML. It share
 
 ---
 
-## Author: Lopua Emeri
-
-Brenda (Aspiring AI Engineer & Full Stack Developer)
+## Author: Lopua Emeri 
+(Aspiring AI Engineer & Full Stack Developer)
