@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.intro{
+    border: 1px solid pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:whitesmoke;
+    background-color: black;
+    font-size: 24px;
+    margin: 0 auto;
+    gap: 15px;
+}
+
+.description{
+    font-size: 18px;
+    color: whitesmoke;
+    background-color:#333333;
+}
